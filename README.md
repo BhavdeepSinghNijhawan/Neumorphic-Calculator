@@ -10,3 +10,8 @@ Neumorphism is a design trend that involves creating soft, subtle gradients and 
 
 # Live URL
 
+https://bhavdeepsinghnijhawan.github.io/Neumorphic-Calculator/
+
+# Contributor
+
+- [Bhavdeep Singh Nijhawan](https://www.linkedin.com/in/bhavdeep-singh-nijhawan-739634280)
