@@ -4,7 +4,7 @@ Neumorphism is a design trend that involves creating soft, subtle gradients and 
 
 ![image](https://github.com/BhavdeepSinghNijhawan/Neumorphic-Calculator/assets/143419096/44984475-8ea0-431b-b896-74073259a60f)
 
-# Technolgies Used
+# Technologies Used
 
 - HTML
 - CSS
