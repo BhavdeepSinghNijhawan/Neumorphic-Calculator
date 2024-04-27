@@ -12,9 +12,9 @@ Neumorphism is a design trend that involves creating soft, subtle gradients and 
 <!DOCTYPE html>
 ```
 - This line specifies the document type and version of HTML being used, which in this case is HTML5.
-  ```
+```
 <html lang="en">
-  ```
+```
 - This line starts the HTML document and specifies the language of the document (English).
 ```
 <head>
