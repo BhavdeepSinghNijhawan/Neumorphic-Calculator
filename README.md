@@ -6,7 +6,24 @@ Neumorphism is a design trend that involves creating soft, subtle gradients and 
 
 ## TECHNICAL STACK
 
-- HTML
+### HTML
+
+```
+<!DOCTYPE html>
+```
+- This line specifies the document type and version of HTML being used, which in this case is HTML5.
+  ```
+<html lang="en">
+  ```
+- This line starts the HTML document and specifies the language of the document (English).
+```
+<head>
+    <meta charset="UTF-8">
+```
+- This section contains metadata about the HTML document. The <meta charset="UTF-8"> tag specifies the character encoding used in the document, which is UTF-8 (Unicode Transformation Format, 8-bit).
+```
+
+```
 - CSS
 - JavaScript
 
